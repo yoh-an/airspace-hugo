@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Découvrez notre projet
-    link: service
+    link: project
 about:
   enable: true
   title: 'A propos de nous '
