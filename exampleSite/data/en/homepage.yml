@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/espace.jpg
   title: 'Le seul satellite de Polytechnique : Ionsat'
-  content: Projet multigénérationnel qui est developpé au sein même de l'école depuis
+  content: Projet multigénérationnel qui est développé au sein même de l'école depuis
     trois ans impliquant plus de 60 étudiants
   button:
     enable: true
