@@ -20,8 +20,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Author
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
