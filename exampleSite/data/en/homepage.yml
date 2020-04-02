@@ -21,18 +21,14 @@ about:
 portfolio:
   enable: true
   bg_image: images/ariane.png
-  title: 'DE GRANDES AVANCEES '
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Notre Projet
+  content: |2-
+     IonSat est un projet du Centre spatial étudiant (CSE) de l’École polytechnique, en partenariat avec le CNES, visant à concevoir, placer et maintenir en orbite basse (jusqu’à une orbite circulaire à 250km d’altitude) un CubeSat équipé d’un moteur à propulsion ionique à l’iode développé par la start-up ThrustMe. Ce projet ambitieux (nous comptons être un des premiers satellites étudiants à propulsion ionique mis en orbite) comporte une importante valeur ajoutée technologique et scientifique, qui suit une tendance récente dans le secteur spatial se manifestant par un intérêt croissant porté aux orbites très basse.
+
+    Les avantages potentiels de ces orbites sont nombreux (temps de latence des communications réduit, meilleure résolution, coûts de lancement moindres, etc.) mais ces altitudes sont pour l’instant peu explorées en raisons de nombreuses inconnues (importance de la traînée, comportement des propulseurs ioniques dans l’atmosphère,...). Le motivation première d’IonSat est donc de défier la traînée atmosphérique à une altitude peu connue, réalisant ainsi une démonstration technologique.
   button:
     enable: true
-    label: View Works
+    label: Notre travail
     link: project
 service:
   enable: true
