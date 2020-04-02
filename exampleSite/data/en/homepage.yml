@@ -12,15 +12,10 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: Motivés par ce projet qui nous tient vraiment à coeur, nous sommes
+    cette année une équipe de 15 étudiants prêts à surpasser nos attentes.
+  content: 'Intégré à notre cursus d''études à Polytechnique, ce projet est porté
+    tout au long d''une année par une équipe de 15 étudiants. '
   image: images/wrapper-img.png
 portfolio:
   enable: true
