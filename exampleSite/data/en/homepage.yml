@@ -11,11 +11,15 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
+  title: 'A propos de nous '
   description: Motivés par ce projet qui nous tient vraiment à coeur, nous sommes
     cette année une équipe de 15 étudiants prêts à surpasser nos attentes.
   content: 'Intégré à notre cursus d''études à Polytechnique, ce projet est porté
-    tout au long d''une année par une équipe de 15 étudiants. '
+    tout au long d''une année par une équipe de 15 étudiants. Nous bénéficions de
+    tous les soutiens que peut apporter notre structure éducative: un tuteur est à
+    notre écoute et nous accompagne. De nombreuses installations présentes sur le
+    campus sont à même de nous fournir un appui logistique lorsqu''il s''agit de faire
+    des modèles 3D numériques ou imprimés, écrire le code de l''ordinateur de bord...'
   image: images/wrapper-img.png
 portfolio:
   enable: true
