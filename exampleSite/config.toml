@@ -41,7 +41,7 @@ name = "Notre projet"
 weight = 2
 [[menu.footer]]
 URL = "about"
-name = "About"
+name = "A propos de nous"
 weight = 1
 [[menu.main]]
 URL = "about"
@@ -75,7 +75,7 @@ name = "Service"
 weight = 3
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "Notre Projet "
 weight = 2
 [params]
 author = "Themefisher"
