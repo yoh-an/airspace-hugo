@@ -20,6 +20,14 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+URL = "project"
+name = "Notre Projet"
+weight = 2
+[[menu.footer]]
+URL = "about"
+name = "A propos de nous"
+weight = 1
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 6
@@ -35,28 +43,24 @@ weight = 4
 URL = "service"
 name = "Service"
 weight = 3
-[[menu.footer]]
-URL = "project"
-name = "Notre projet"
-weight = 2
-[[menu.footer]]
-URL = "about"
-name = "A propos de nous"
-weight = 1
 [[menu.main]]
-URL = "about"
-name = "A propos de nous "
-weight = 1
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+weight = 2
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
 parent = "Pages"
 weight = 1
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
+URL = "project"
+name = "Notre Projet "
 weight = 2
+[[menu.main]]
+URL = "about"
+name = "A propos de nous "
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -73,10 +77,6 @@ weight = 4
 URL = "service"
 name = "Service"
 weight = 3
-[[menu.main]]
-URL = "project"
-name = "Notre Projet "
-weight = 2
 [params]
 author = "Themefisher"
 contact_form_action = "#"
