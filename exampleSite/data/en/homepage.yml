@@ -31,7 +31,8 @@ portfolio:
     label: Notre travail
     link: project
 service:
-  enable: false
+  enable: true
+  title: essai
 cta:
   enable: false
   bg_image: images/call-to-action-bg.jpg
