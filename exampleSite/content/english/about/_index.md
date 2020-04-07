@@ -1,6 +1,7 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Qui sommes nous ?
+description: 'Chaque année, un nouveau groupe de 15 étudiants continue de progresser
+  dans vers l''objectif final. '
+bg_image: images/featue-bg.jpg
+
 ---
