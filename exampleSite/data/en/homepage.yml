@@ -21,7 +21,7 @@ about:
   button:
     enable: true
     label: test
-    link: https://www.nytimes.com
+    link: "#service"
 portfolio:
   enable: true
   bg_image: images/ariane.png
