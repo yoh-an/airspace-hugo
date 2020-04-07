@@ -31,7 +31,7 @@ portfolio:
     label: Notre travail
     link: project
 service:
-  enable: true
+  enable: false
   title: essai
 cta:
   enable: false
