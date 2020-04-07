@@ -26,11 +26,15 @@ weight = 3
 [[menu.footer]]
 URL = "project"
 name = "Notre Projet"
-weight = 2
+weight = 1
 [[menu.footer]]
 URL = "about"
 name = "A propos de nous"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "A propos de nous "
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -42,10 +46,6 @@ weight = 3
 [[menu.main]]
 URL = "project"
 name = "Notre Projet "
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "A propos de nous "
 weight = 1
 [params]
 author = "Themefisher"
