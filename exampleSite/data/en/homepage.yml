@@ -18,6 +18,10 @@ about:
     Intégré à notre cursus d'études à Polytechnique, ce projet est porté tout au long d'une année par une équipe de 15 étudiants. Nous bénéficions de tous les soutiens que peut apporter notre structure éducative: un tuteur est à notre écoute et nous accompagne. De nombreuses installations présentes sur le campus sont à même de nous fournir un appui logistique lorsqu'il s'agit de faire des modèles 3D numériques ou imprimés, écrire le code de l'ordinateur de bord...
     La Start-up Thrust Me nous met à disposition son dernier moteur ionique pour cubesats.
   image: images/cubesat.jpg
+  button:
+    enable: true
+    label: test
+    link: https://www.nytimes.com
 portfolio:
   enable: true
   bg_image: images/ariane.png
