@@ -64,7 +64,7 @@ funfacts:
     count: "125"
   - icon: ion-ios-timer-outline
     name: 'Pôles différents '
-    count: "10"
+    count: "9"
   testimonial_slider:
   - name: Florian Marmuse
     image: images/clients/marmuse.jpg
