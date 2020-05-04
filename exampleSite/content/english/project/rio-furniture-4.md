@@ -6,7 +6,7 @@ bg_image: images/featue-bg.jpg
 category: Général
 information:
 - label: 'Référent '
-  info: Marie gruet
+  info: Hadrien Paugnat
 
 ---
 ## Gestion de projet 
