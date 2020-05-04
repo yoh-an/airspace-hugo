@@ -5,10 +5,10 @@ image: "/images/mission.png"
 bg_image: images/featue-bg.jpg
 category: Général
 information:
-- label: Référent
-  info: Hadrien Paugnat
-- label: Mi-temps
-  info: Yohan FIS
+- label: Date de début
+  info: septembre 2017
+- label: Fin de phase B
+  info: mai 2020
 
 ---
 ## Présentation et définition de la mission
