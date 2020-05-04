@@ -7,6 +7,8 @@ category: Général
 information:
 - label: Date de début
   info: septembre 2017
+- label: Fin de phase A
+  info: Mai 2018
 - label: Fin de phase B
   info: mai 2020
 
