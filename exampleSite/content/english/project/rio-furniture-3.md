@@ -13,7 +13,7 @@ information:
 ---
 ## Présentation et définition de la mission
 
-IonSat est un projet du Centre spatial étudiant  de l’École polytechnique (CSEP), en partenariat avec le CNES, visant à concevoir, placer et maintenir en orbite basse (altitude minmale envisagée : 250km) un CubeSat équipé d’un moteur à propulsion ionique à l’iode développé par la start-up ThrustMe.
+IonSat est un projet du Centre spatial étudiant  de l’École polytechnique (CSEP), en partenariat avec le CNES, visant à concevoir, placer et maintenir en orbite basse (altitude minimale envisagée : 250km) un CubeSat équipé d’un moteur à propulsion ionique à l’iode développé par la start-up ThrustMe.
 
 Ce projet ambitieux (nous comptons être un des premiers satellites étudiants à propulsion ionique mis en orbite) comporte une importante valeur ajoutée technologique et scientifique, qui suit une tendance récente dans le secteur spatial se manifestant par un intérêt croissant porté aux orbites très basses (VLEO = Very Low Earth Orbit). Les avantages potentiels de ces orbites sont nombreux (temps de latence des communications réduit, meilleure résolution, coûts de lancement moindres, etc.) mais ces altitudes sont pour l’instant peu explorées en raisons de nombreuses inconnues (importance de la traînée, comportement des propulseurs ioniques dans l’atmosphère,. . . ). Le motivation première d’IonSat est donc de défier la traînée atmosphérique dans un environnement peu connu, réalisant ainsi une démonstration technologique.
 
