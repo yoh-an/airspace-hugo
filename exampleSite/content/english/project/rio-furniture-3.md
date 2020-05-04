@@ -5,8 +5,8 @@ image: "/images/mission.png"
 bg_image: images/featue-bg.jpg
 category: Général
 information:
-- label: Client
-  info: Jannie Kelonsky
+- label: Référent
+  info: Hadrien Paugnat
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
