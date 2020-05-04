@@ -1,7 +1,7 @@
 +++
 bg_image = ""
 category = ""
-description = ""
+description = "Trajectoire"
 image = "/images/orbite.png"
 information = []
 title = "Contrôle d'orbite"
