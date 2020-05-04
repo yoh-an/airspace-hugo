@@ -63,8 +63,8 @@ funfacts:
     name: Projects Completed
     count: "125"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: 'Pôles différents '
+    count: "10"
   testimonial_slider:
   - name: Florian Marmuse
     image: images/clients/marmuse.jpg
