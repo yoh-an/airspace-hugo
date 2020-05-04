@@ -1,7 +1,7 @@
 ---
-title: Présentation du projet
-description: Quel est le but du cubesat ?
-image: images/portfolio/work3.jpg
+title: 'Notre mission '
+description: 'Présentation et définition '
+image: "/images/mission.png"
 bg_image: images/featue-bg.jpg
 category: Video
 information:
@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Behance Website Redesign
+## Présentation et définition de la mission 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
