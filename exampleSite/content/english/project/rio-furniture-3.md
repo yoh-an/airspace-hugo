@@ -3,7 +3,7 @@ title: 'Notre mission '
 description: 'Présentation et définition '
 image: "/images/mission.png"
 bg_image: images/featue-bg.jpg
-category: Video
+category: Général
 information:
 - label: Client
   info: Jannie Kelonsky
