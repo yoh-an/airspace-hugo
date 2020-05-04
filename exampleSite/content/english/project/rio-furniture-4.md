@@ -3,7 +3,7 @@ title: 'Gestion de projet '
 description: Par qui le projet est il dirigé?
 image: "/images/gestion de projet.png"
 bg_image: images/featue-bg.jpg
-category: UI/UX Design
+category: Général
 information:
 - label: Client
   info: Jannie Kelonsky
