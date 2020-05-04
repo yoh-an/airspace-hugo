@@ -5,10 +5,10 @@ image: "/images/mission.png"
 bg_image: images/featue-bg.jpg
 category: Général
 information:
-- label: Mi-temps
-  info: Yohan FIS
 - label: Référent
   info: Hadrien Paugnat
+- label: Mi-temps
+  info: Yohan FIS
 
 ---
 ## Présentation et définition de la mission
