@@ -10,7 +10,7 @@ about:
   button:
     enable: false
     label: Download Company Profile
-    link: "#"
+    link: https://ionsat.netlify.app
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
