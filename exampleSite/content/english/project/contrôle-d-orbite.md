@@ -16,7 +16,7 @@ Nous avons adopté l’idée d’un lancement depuis la Station Spatiale Interna
 
 Le schéma de l'orbite est le suivant:
 
-![](/images/orbite.png)
+![](/images/orbite2.png)
 
 Le lancement ayant donc a priori lieu à 400 km, il faut descendre jusqu’à environ 300 km pour débuter la mission de maintien à poste à cette altitude. Cette phase de descente s’effectuera avec une technique d’aerobraking, c’est-à-dire en orientant la plus grande surface perpendiculairement à la trajectoire, de façon à maximiser la traînée atmosphérique. Après étude approfondies, il se trouve que cette technique est plus efficace que d'utiliser le moteur. La trainée est en effet maximisée grâce notamment à la surface offerte par les panneaux solaires.
 
