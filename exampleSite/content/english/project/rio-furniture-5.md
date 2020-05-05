@@ -20,3 +20,9 @@ Nous avons successivement confirmé des choix des composants réalisés par l’
 À ce stade, les composants choisis sont les suivants:
 
 ![](/images/composants-ConvertImage.png)
+
+Voici une ébauche de proposition d'intégration:
+
+![](/images/intégration.png)
+
+La prochain étape est de faire maquette à taille réelle avec des modèles 3D pour tester la configuration. 
