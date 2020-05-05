@@ -1,6 +1,6 @@
 ---
 title: 'Structure et configuration '
-description: this is meta description
+description: Quels sont les composants et la structure choisie ?
 image: "/images/structure et configuration.png"
 bg_image: images/featue-bg.jpg
 category: Plateforme
