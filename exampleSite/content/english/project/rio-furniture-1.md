@@ -14,3 +14,5 @@ information:
 ## Ordinateur de Bord
 
 L’ordinateur de bord aura plusieurs tâches à bord du satellite. Il se chargera du contrôle de la poussée, de la télémétrie, de la communication avec le sol, de la gestion de la batterie et de la distribution des ordres aux divers composants du satellite. L’ordinateur de bord décidera également, à l’aide d’un propagateur d’orbite, à quels instants activer les modes de poussée et de transmission.
+
+tes
