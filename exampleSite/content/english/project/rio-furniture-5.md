@@ -1,7 +1,7 @@
 ---
 title: 'Structure et configuration '
 description: this is meta description
-image: images/portfolio/work5.jpg
+image: "/images/structure et configuration.png"
 bg_image: images/featue-bg.jpg
 category: Plateforme
 information:
@@ -25,4 +25,4 @@ Voici une ébauche de proposition d'intégration:
 
 ![](/images/intégration.png)
 
-La prochain étape est de faire maquette à taille réelle avec des modèles 3D pour tester la configuration. 
+La prochain étape est de faire maquette à taille réelle avec des modèles 3D pour tester la configuration.
