@@ -11,7 +11,7 @@ information:
   info: 'Siyuan Lin '
 
 ---
-## Structure et configuration 
+## Structure et configuration
 
 Ce pôle est chargé de concevoir et construire la plateforme, d’étudier les contraintes sur des différents composants, ainsi que d’étudier l’intégration et de modéliser sur le logiciel de conception assisté par ordinateur CATIA des sous-systèmes à la structure globale.
 
@@ -19,4 +19,4 @@ Nous avons successivement confirmé des choix des composants réalisés par l’
 
 À ce stade, les composants choisis sont les suivants:
 
-![](/images/composants.png)
+![](/images/composants-ConvertImage.png)
