@@ -2,7 +2,7 @@
 title: 'Ordinateur de bord '
 description: 'Choix et configuration technique '
 image: "/images/ordinateur de bord.png"
-bg_image: images/featue-bg.jpg
+bg_image: "/images/ordinateur-espace.png"
 category: Plateforme
 information:
 - label: 'Référent '
