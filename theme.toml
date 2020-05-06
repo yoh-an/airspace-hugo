@@ -1,6 +1,6 @@
 # theme.toml for the Airspace Hugo theme
 
-name = "Airspace Hugo"
+name = "Ionsat"
 license = "CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
 description = "Hugo port of the Themefisher’s Airspace theme"
