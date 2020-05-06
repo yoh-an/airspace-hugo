@@ -13,6 +13,8 @@ information:
 
 Le projet IonSat rassemble 15 étudiants X2018. Nous sommes répartis en divers pôles (qui représentent les grands aspects à traiter), en travaillant éventuellement à temps partiel entre plusieurs pôles :
 
+![](/images/organisation.png)
+
 **Pôle Gestion de projet** : traite les problématiques de management et de conduite de projet (coûts, délais, formations, revues, management général, analyse de risques, contraintes légales, etc.). Sont également rattachés à ce pôle les activités de recherche de partenariats (financiers, de compétences, recherche de charge utile, etc.) et de lancements.
 
 **Pôle Ingénierie système** : veille au respect des spécifications et performances attendues, à la cohérence technique du projet (suivi des bilans, du plan de mission, etc.). Également chargé de définir le plan d’opérations.
