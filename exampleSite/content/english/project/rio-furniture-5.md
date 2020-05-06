@@ -3,7 +3,7 @@ title: 'Structure et configuration '
 description: Quels sont les composants et la structure choisie ?
 image: "/images/structure et configuration.png"
 bg_image: images/featue-bg.jpg
-category: Plateform
+category: Plateforme
 information:
 - label: Référent
   info: Vianey Darsel
