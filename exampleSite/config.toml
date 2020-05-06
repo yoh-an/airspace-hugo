@@ -94,7 +94,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/school/ecole-polytechnique/"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "https://twitter.com/hashtag/IonSat?src=hashtag_click"
