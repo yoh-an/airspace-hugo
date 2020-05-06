@@ -3,10 +3,9 @@ about:
   enable: true
   image: images/Etudiant.jpeg
   title: Nous aspirons au meilleur !
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  content: " Nous sommes 15 étudiants en deuxième année à l'école Polytechnique de
+    la promotion 2018. Nous sommes la 3 équipe à reprendre ce projet suite aux promotions
+    2017et 2017. "
   button:
     enable: true
     label: Notre dernière Newsletter
