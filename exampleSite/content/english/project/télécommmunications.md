@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/télécommunication.png"
-category = "Plateforme "
+category = "Plateforme"
 description = ""
 image = "/images/télécommunication .png"
 title = "Télécommmunications"
