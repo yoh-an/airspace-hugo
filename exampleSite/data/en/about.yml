@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  image: images/company/Etudiant.jpeg
+  image: images/Etudiant.jpeg
   title: Nous aspirons au meilleur !
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
