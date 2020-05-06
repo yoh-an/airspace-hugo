@@ -93,20 +93,11 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "#"
 [[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://twitter.com/hashtag/IonSat?src=hashtag_click"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "https://www.facebook.com"
