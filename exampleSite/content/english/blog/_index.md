@@ -1,6 +1,6 @@
 ---
-title: "Latest News"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: 'Dernières nouvelles '
+description: Quels sont les derniers choix adoptés par l'équipe ?
+bg_image: "/images/espace_blog.png"
+
 ---
