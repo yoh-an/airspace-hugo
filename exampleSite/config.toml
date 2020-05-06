@@ -51,17 +51,17 @@ weight = 1
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "yohan.fis@polytechnique.edu"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Ecole Polytechnique, Palaiseau, France "
 logo = "images/logo.png"
 mobile = "0124857985320"
 multi_author = false
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "48.714297"
+map_longitude = "2.211292"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
