@@ -13,7 +13,7 @@ information:
   info: mai 2020
 
 ---
-## Présentation et définition de la mission
+## Notre mission
 
 Le domaine spatial, à l’origine porté par des motivations essentiellement politiques et militaires, a trouvé depuis une dizaine d’années un nouveau souffle avec l’émergence du “NewSpace”, une démocratisation du milieu qui s’illustre, entre autres, par la présence de nombreux projets de satellites développés par des équipes étudiantes. Citons par exemple le projet X-CubeSat développé à l’École polytechnique et lancé en 2017. Notre projet s’inscrit dans sa continuité.
 
