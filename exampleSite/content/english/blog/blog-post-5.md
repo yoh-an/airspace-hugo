@@ -16,10 +16,12 @@ description: ''
 type: post
 
 ---
-L'équipe 2018 qui travaille sur le projet de cubesat IonSat était présente lors des trois jours de l'European Cubesat Symposium qui s'est déroulé au Luxembourg en septembre 2019. 
+Une partie de l'équipe 2018 qui travaille sur le projet de cubesat IonSat était présente lors des trois jours de l'European Cubesat Symposium qui s'est déroulé au Luxembourg en septembre 2019. 
 
 ![](/images/ECS-luxembourg.png)
 
 Ils ont pu assister aux nombreuses présentation des différentes équipes du monde qui travaillent sur des cubesats. Ils ont aussi pu nouer des contact ainsi que se familiariser avec des personnes qui travaillent spécifiquement dans ce milieu.  
 
 Des propositions de lancements leur ont été faites, ils ont aussi pu voir ce qui se faisait de mieux en technologie de panneaux solaires notamment. 
+
+Cette conférence a pu les familiariser avec un domaine qu'ils connaissaient très peu et les a aider à mieux appréhender des notions compliquées. 
