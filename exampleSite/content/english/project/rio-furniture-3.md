@@ -1,7 +1,7 @@
 ---
 title: 'Notre mission '
 description: 'Présentation et définition '
-image: "/images/mission-1.png"
+image: "/images/mission.png"
 bg_image: "/images/space_earth.jpg"
 category: Général
 information:
