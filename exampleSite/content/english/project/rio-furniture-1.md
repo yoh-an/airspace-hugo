@@ -3,7 +3,7 @@ title: 'Ordinateur de bord '
 description: 'Choix et configuration technique '
 image: "/images/ordinateur de bord.png"
 bg_image: "/images/ordinateur-espace.png"
-category: Plateforme
+category: Plateform
 information:
 - label: 'Référent '
   info: Stéphane Latil
