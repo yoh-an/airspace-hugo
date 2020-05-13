@@ -63,9 +63,10 @@ mission_vision:
   enable: true
   tabs:
   - name: Vision
-    content: 'Nous voulons être le premier Satellite étudiant à se maintenir à faible
-      orbite à l''aide d''un propulseur. Cela n''a jamais été fait e nous souhaitons
-      donc être un démonstrateur technologique. '
+    content: "Nous voulons être le premier Satellite étudiant à se maintenir à faible
+      orbite à l'aide d'un propulseur. Cela n'a jamais été fait, nous souhaitons donc
+      être un démonstrateur technologique. \nIl faut que l'on arrive à se maintenir
+      en orbite basse le maximum possible le maximum de temps. "
   - name: Mission
     content: 'La mission consiste à montrer qu''une équipe étudiante peut mener la
       conception d''un cubesat tout en y intégrant un propulseur ionique. Le but est
