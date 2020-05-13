@@ -57,8 +57,8 @@ funfacts:
     name: Etudiants mobilisés
     count: "45"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: ''
+    count: ''
   - icon: ion-ios-compose-outline
     name: ''
     count: ''
