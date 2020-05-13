@@ -68,10 +68,12 @@ mission_vision:
       être un démonstrateur technologique. \nIl faut que l'on arrive à se maintenir
       en orbite basse le maximum possible le maximum de temps. "
   - name: Mission
-    content: 'La mission consiste à montrer qu''une équipe étudiante peut mener la
-      conception d''un cubesat tout en y intégrant un propulseur ionique. Le but est
+    content: "La mission consiste à montrer qu'une équipe étudiante peut mener la
+      conception d'un cubesat tout en y intégrant un propulseur ionique. Le but est
       donc de maintenir le satellite en orbite basse le maximum de temps. Cette orbite
-      peut aussi être amenée à diminuer au fil du temps si un succès est atteint. '
+      peut aussi être amenée à diminuer au fil du temps si un succès est atteint.
+      \nLa mission est considérée comme un succès au bout de six mois, nous continuerons
+      à descendre passé ce délai."
   - name: Approach
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
