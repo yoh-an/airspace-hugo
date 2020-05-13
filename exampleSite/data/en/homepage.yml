@@ -60,8 +60,8 @@ funfacts:
     name: Article Written
     count: "45"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: ''
+    count: ''
   - icon: ion-ios-timer-outline
     name: 'Pôles différents '
     count: "9"
