@@ -20,3 +20,9 @@ Ce pôle possède deux rôles fondamentaux:
    -estimer l'altitude à partir des données fournies par les capteurs. 
 
    -Suivre une consigne d'altitude de manière précise en agissant sur les actuateurs.
+
+Notre problématique est posée par des moments perturbateurs qui vont représenter un défi pendant le vol. Cela peut être le déclenchement d'une phase de poussée du moteur ou encore la trainée en orbite basse. Les roues à réaction doivent être capables de compenser ces moments lorsque les magnéto-coupleurs sont inopérants.
+
+Voici le plan de connexion des différents composants concernant ce pôle.
+
+![](/images/examplesite/static/images/controle_altitude.png)
